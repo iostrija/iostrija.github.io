@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iostrija.github.io/sitemap.html.gz
+Sitemap: https://iostrija.github.io/app/sitemap.html.gz
+Sitemap: https://iostrija.github.io/assets/sitemap.html.gz
+Sitemap: https://iostrija.github.io/css/sitemap.html.gz
+Sitemap: https://iostrija.github.io/includes/sitemap.html.gz
+Sitemap: https://iostrija.github.io/item/sitemap.html.gz
+Sitemap: https://iostrija.github.io/src/sitemap.html.gz
